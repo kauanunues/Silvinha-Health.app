@@ -1,0 +1,9 @@
+Criar um projeto React  Native com Expo
+ npx create-expo-app Silvinha-Health
+
+git config --global user.name kauannunes
+git config --global user.email marykakinho@gmail.com
+
+executar o projeto:
+estar na pasta do projeto 
+
